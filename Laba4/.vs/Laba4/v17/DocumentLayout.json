@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parom\\source\\repos\\Laba4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\policeman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\policeman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|c:\\users\\parom\\source\\repos\\laba4\\laba4\\listik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\listik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|c:\\users\\parom\\source\\repos\\laba4\\laba4\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|c:\\users\\parom\\source\\repos\\laba4\\laba4\\listik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\listik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\polform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\polform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\polform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\polform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\trafficcopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\trafficcopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|c:\\users\\parom\\source\\repos\\laba4\\laba4\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\trafficcopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\trafficcopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\divform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\divform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\trafficcop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\trafficcop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\polform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\polform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\polform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\polform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\divform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\divform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\divform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\divform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\divform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\divform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|C:\\Users\\parom\\source\\repos\\Laba4\\laba4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5A3D9-44CE-4C8D-B79F-A74FA5BB3409}|Laba4\\Laba4.csproj|solutionrelative:laba4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Man.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Man.cs",
+              "RelativeDocumentMoniker": "Laba4\\Man.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Man.cs",
+              "RelativeToolTip": "Laba4\\Man.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:30:37.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Listik.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Listik.cs",
+              "RelativeDocumentMoniker": "Laba4\\Listik.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Listik.cs",
+              "RelativeToolTip": "Laba4\\Listik.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:16:09.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listik.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Listik.cs",
+              "RelativeDocumentMoniker": "Laba4\\Listik.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Listik.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Laba4\\Listik.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:13:12.705Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrafficCopForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\TrafficCopForm.cs",
+              "RelativeDocumentMoniker": "Laba4\\TrafficCopForm.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\TrafficCopForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Laba4\\TrafficCopForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:44:07.902Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PolForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\PolForm.cs",
+              "RelativeDocumentMoniker": "Laba4\\PolForm.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\PolForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Laba4\\PolForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:36:46.379Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolForm.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\PolForm.cs",
+              "RelativeDocumentMoniker": "Laba4\\PolForm.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\PolForm.cs",
+              "RelativeToolTip": "Laba4\\PolForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:41:30.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DivForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\DivForm.Designer.cs",
+              "RelativeDocumentMoniker": "Laba4\\DivForm.Designer.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\DivForm.Designer.cs",
+              "RelativeToolTip": "Laba4\\DivForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:52:41.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrafficCop.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\TrafficCop.cs",
+              "RelativeDocumentMoniker": "Laba4\\TrafficCop.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\TrafficCop.cs",
+              "RelativeToolTip": "Laba4\\TrafficCop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:06:32.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Policeman.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Policeman.cs",
+              "RelativeDocumentMoniker": "Laba4\\Policeman.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Policeman.cs",
+              "RelativeToolTip": "Laba4\\Policeman.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:23:58.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrafficCopForm.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\TrafficCopForm.cs",
+              "RelativeDocumentMoniker": "Laba4\\TrafficCopForm.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\TrafficCopForm.cs",
+              "RelativeToolTip": "Laba4\\TrafficCopForm.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswC8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:44:10.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "task2.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\task2.cs",
+              "RelativeDocumentMoniker": "Laba4\\task2.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\task2.cs",
+              "RelativeToolTip": "Laba4\\task2.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:09:04.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "task2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\task2.cs",
+              "RelativeDocumentMoniker": "Laba4\\task2.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\task2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Laba4\\task2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:42:48.84Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PolForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\PolForm.Designer.cs",
+              "RelativeDocumentMoniker": "Laba4\\PolForm.Designer.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\PolForm.Designer.cs",
+              "RelativeToolTip": "Laba4\\PolForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:43:29.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PolForm.resx",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\PolForm.resx",
+              "RelativeDocumentMoniker": "Laba4\\PolForm.resx",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\PolForm.resx",
+              "RelativeToolTip": "Laba4\\PolForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-10T07:59:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DivForm.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\DivForm.cs",
+              "RelativeDocumentMoniker": "Laba4\\DivForm.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\DivForm.cs",
+              "RelativeToolTip": "Laba4\\DivForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:22:45.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DivForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\DivForm.cs",
+              "RelativeDocumentMoniker": "Laba4\\DivForm.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\DivForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Laba4\\DivForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:09:40.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DivForm.resx",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\DivForm.resx",
+              "RelativeDocumentMoniker": "Laba4\\DivForm.resx",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\DivForm.resx",
+              "RelativeToolTip": "Laba4\\DivForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-09T20:44:21.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Division.cs",
+              "RelativeDocumentMoniker": "Laba4\\Division.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Division.cs",
+              "RelativeToolTip": "Laba4\\Division.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:50:05.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Form1.cs",
+              "RelativeDocumentMoniker": "Laba4\\Form1.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Laba4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:03:10.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Form1.cs",
+              "RelativeDocumentMoniker": "Laba4\\Form1.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Form1.cs",
+              "RelativeToolTip": "Laba4\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:03:18.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Laba4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\parom\\source\\repos\\Laba4\\Laba4\\Form1.Designer.cs",
+              "RelativeToolTip": "Laba4\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:03:25.005Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

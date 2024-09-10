@@ -1,0 +1,15 @@
+C:\Users\parom\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\parom\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\parom\source\repos\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.csproj.AssemblyReference.cache
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.Form1.resources
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.csproj.GenerateResource.cache
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.pdb
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.task2.resources
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.DivForm.resources
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.PolForm.resources
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.TrafficCopForm.resources
+C:\Users\parom\source\repos\Laba4\Laba4\obj\Debug\Laba4.Listik.resources
